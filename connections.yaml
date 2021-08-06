@@ -1,0 +1,27 @@
+---
+UniqueID: HPL-INVENTORY
+Address: hana-hpl.sku-mart.com
+Port: 30825
+Username: PRICING
+EncryptedPassword: hytsCxoWvYy/pgDy65hByutS
+
+---
+UniqueID: HPJ-FULFILLMENT
+Address: hana-hpj.sku-mart.com
+Port: 30625
+Username: VISITS
+EncryptedPassword: xrtnWypLU8gqPuoFr9vSDkTq
+
+---
+UniqueID: HPM-VISITS
+Address: hana-hpm.sku-mart.com
+Port: 30925
+Username: FULFILLMENT
+EncryptedPassword: poyrvONK5NSAZuJ0iqNH0GM1
+
+---
+UniqueID: HPN-PRICING
+Address: hana-hpn.sku-mart.com
+Port: 31025
+Username: INVENTORY
+EncryptedPassword: 4GApqAhts82Y0q0alrcL6S8A
